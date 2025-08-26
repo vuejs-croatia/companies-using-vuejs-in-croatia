@@ -8,6 +8,7 @@ The list of companies who use Vue.js in Croatia
 Name | Website | Open to hire | What we do with Vue.js 
 ----------- | ----------- | ----------- | -----------------
 [Barrage](https://www.barrage.net) | https://www.barrage.net | Yes | Interactive apps and websites in both Vue.js and Nuxt.js for various business domains (blockchain, travel management, smart home systems)
+[GameBoost](https://gameboost.com) | https://gameboost.com | Yes | Entire website's frontend and dashboards are built usign Vue.js
 
 
 ## Inspired by
